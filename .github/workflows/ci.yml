@@ -7,6 +7,7 @@ on:
       - 'docs/**'
       - 'workflows/**'
       - 'README.md'
+  workflow_dispatch:
 
 permissions:
   contents: read
